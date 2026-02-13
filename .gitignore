@@ -24,8 +24,6 @@ bin/
 
 ### VS Code ###
 .vscode/
-bin/
-!**/src/*.class
-
+*.class
 ### Mac OS ###
 .DS_Store
